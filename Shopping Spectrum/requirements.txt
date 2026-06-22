@@ -1,9 +1,4 @@
-streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-plotly
-joblib
-pickle-mixin
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.5
+scikit-learn==1.6.1
